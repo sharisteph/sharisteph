@@ -1,4 +1,4 @@
-Hi there 👋
+< img src= "https://github.com/sharisteph/sharisteph/blob/main/me%20git%20hub.png">
 
 🔭 I’m currently working on a HIV dashboard to showcase Key HIV Indicators in Kenya using excel
 
