@@ -1,4 +1,7 @@
-< img src= "https://github.com/sharisteph/sharisteph/blob/main/me%20git%20hub.png">
+![Shari Arangi, Data Analyst](https://github.com/sharisteph/sharisteph/blob/main/me%20git%20hub.png)
+
+
+### Hi there, I'm Shari! 👋
 
 🔭 I’m currently working on a HIV dashboard to showcase Key HIV Indicators in Kenya using excel
 
@@ -15,4 +18,13 @@
 😄 Pronouns: me
 
 ⚡ Fun fact: about me- I am as obsessed with books as i am with novels
+
+<br/>
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
+
+<br/>
+<br/>  
+
 
