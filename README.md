@@ -19,12 +19,6 @@
 
 ⚡ Fun fact: about me- I am as obsessed with books as i am with novels
 
-<br/>
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=sarah-hart-landolt&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=sarah-hart-landolt&show_icons=true&theme=radical)
-
-<br/>
-<br/>  
 
 
