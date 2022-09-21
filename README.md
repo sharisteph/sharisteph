@@ -17,7 +17,7 @@
 
 😄 Pronouns: me
 
-⚡ Fun fact: about me- I am as obsessed with books as i am with novels
+⚡ Fun fact: about me- I am as obsessed with books as i am with movies
 
 
 
